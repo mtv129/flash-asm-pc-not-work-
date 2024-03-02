@@ -1,0 +1,11 @@
+{
+	"config": "air",
+	"compilerOptions": {
+		"source-path": [
+			"src"
+		],
+		"output": "bin/ASAsmCoder.swf"
+	},
+	"mainClass": "Main",
+	"application": "src/Main-app.xml"
+}
